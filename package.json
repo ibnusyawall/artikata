@@ -1,0 +1,27 @@
+{
+  "name": "@ibnusyawall/artikata",
+  "version": "1.0.0",
+  "description": "bahasadaring.com scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnusyawall/artikata.git"
+  },
+  "keywords": ["scrapper", "nodejs", "cheerio"],
+  "author": {
+    "name": "ibnusyawall",
+    "email": "website.isas.24@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibnusyawall/artikata/issues"
+  },
+  "homepage": "https://github.com/ibnusyawall/artikata#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
