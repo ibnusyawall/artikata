@@ -4,12 +4,12 @@
 
 
 ```sh
-npm i artikata
+npm i @ibnusyawall/artikata
 ```
 
 CJS
 ```js
-const Artikata = require('artikata');
+const Artikata = require('@ibnusyawall/artikata');
 
 const kata = 'gweh';
 Artikata(kata)
