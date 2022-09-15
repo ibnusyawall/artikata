@@ -23,7 +23,7 @@ Artikata(kata)
 
 ES6
 ```js
-import Artikata from 'artikata';
+import Artikata from '@ibnusyawall/artikata';
 
 const kata = 'gweh';
 
